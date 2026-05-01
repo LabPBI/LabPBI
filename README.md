@@ -214,9 +214,10 @@ Margem de Lucro = DIVIDE([Lucro Total], [Total de Vendas])
 
 # 📅 DIA 2 — Visualize & Publish
 
-## 🎯 Resultado esperado
+## 🎯 Resultado final esperado será semelhante a este:
 
-![EMBEDDEDIMAGE](placeholder-0)
+<img width="732" height="489" alt="image" src="https://github.com/user-attachments/assets/f84ab9dd-fc64-47a4-8d6f-d77c2e35d971" />
+
 
 **Layout da Dashboard**
 
